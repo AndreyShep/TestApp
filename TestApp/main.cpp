@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  TestApp
-//
-//  Created by Andy A on 6/13/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
-//
 
 #include <iostream>
 #include <time.h>
